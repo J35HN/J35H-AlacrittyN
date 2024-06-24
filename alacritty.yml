@@ -1,0 +1,26 @@
+window:
+  opacity: 0.0
+  decorations: "none"
+
+colors:
+  primary:
+    foreground: "#FFFFFF"
+    background: "#420420"
+  normal:
+    black: "#6E6A86"
+    red: "#EB6F92"
+    green: "#9CCFD8"
+    yellow: "#F6C177"
+    blue: "#3E8FB0"
+    magenta: "#C4A7E7"
+    cyan: "#EA9A97"
+    white: "#E0DEF4"
+  bright:
+    black: "#9893A5"
+    red: "#B4637A"
+    green: "#56949F"
+    yellow: "#EA9D34"
+    blue: "#286983"
+    magenta: "#907AA9"
+    cyan: "#D7827E"
+    white: "#575279"
